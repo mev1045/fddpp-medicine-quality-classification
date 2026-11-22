@@ -46,8 +46,7 @@ Note: no feature scaling was applied. Random Forest does not require it.
 
 
 
-!\[System flowchart](figures/system\_flowchart.png)
-
+![System flowchart](figures/system_flowchart.png)
 
 
 4\. Results
@@ -72,7 +71,7 @@ Evaluated on the 220 held-out test rows:
 
 
 
-!\[Confusion matrix](figures/confusion\_matrix.png)
+![Confusion matrix](figures/confusion\_matrix.png)
 
 
 
@@ -95,7 +94,7 @@ Assay purity, impurity level, and dissolution rate together account for about 82
 
 
 
-!\[Feature importance](figures/feature\_importance.png)
+![Feature importance](figures/feature\_importance.png)
 
 
 
@@ -115,7 +114,7 @@ The large gap suggests the relationship between the measurements and the label i
 
 ## 5\. Interface prototype
 
-!\[GUI screenshot](figures/gui\_screenshot.png)
+![GUI screenshot](figures/gui\_screenshot.png)
 
 
 
